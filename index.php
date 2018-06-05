@@ -29,7 +29,7 @@ if(isset($_GET['msg']) )
 {
 	if($_GET['msg'] == "as1d")
 	{
-		 echo "<p style='color:green;'>Recored added successfully</p>";
+		 echo "<p style='color:green;'>Record added successfully</p>";
 	}
 	else if($_GET['msg'] == "af3d")
 	{
